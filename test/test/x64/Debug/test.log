@@ -1,0 +1,4 @@
+﻿  demo.c
+D:\mfj\portPrj2024411\test\test\demo.c(16,21): warning C4090: “函数”: 不同的“const”限定符
+D:\mfj\portPrj2024411\test\test\demo.c(85,10): warning C4101: “data”: 未引用的局部变量
+  test.vcxproj -> D:\mfj\portPrj2024411\test\x64\Debug\test.exe
